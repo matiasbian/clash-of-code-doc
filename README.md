@@ -11,3 +11,6 @@ Lo mejor de todo: ¡De manera muy divertida!
 * [Entrega 2](#entrega2)
 * [Entrega 3](#entrega3)
 * [Entrega 4](#entrega4)
+
+## PPTs
+* [Presentación PoC](https://docs.google.com/presentation/d/1W9KqyzaQV3IhY8WvD9tc7er3oKfapryAXx5teD0i3-w/edit?usp=sharing)
