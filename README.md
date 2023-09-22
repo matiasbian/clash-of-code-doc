@@ -6,7 +6,7 @@ Lo mejor de todo: ¡De manera muy divertida!
 
 
 ## Índice
-* [PoC](#general-info)
+* [PoC](https://github.com/matiasbian/clash-of-code-doc/wiki/PoC)
 * [Entrega 1](#entrega1)
 * [Entrega 2](#entrega2)
 * [Entrega 3](#entrega3)
