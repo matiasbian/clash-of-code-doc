@@ -1,6 +1,6 @@
 <img src="https://github.com/matiasbian/clash-of-code-doc/blob/main/images/poc/logo-text.png" alt="drawing" width="200"/>
 
-# Clash of code 
+# Clash of codes
 Clash of code es un juego educativo para que chicos en edad escolar se sumerjan en el mundo de la programación. 
 Lo mejor de todo: ¡De manera muy divertida!
 
