@@ -4,6 +4,10 @@
 Clash of code es un juego educativo para que chicos en edad escolar se sumerjan en el mundo de la programación. 
 Lo mejor de todo: ¡De manera muy divertida!
 
+## Repositorios
+* [Frontend](https://github.com/matiasbian/clash-of-code-game)
+* [Backend](https://github.com/matiasbian/clash-of-code-backend)
+
 
 ## Índice
 * [PoC](https://github.com/matiasbian/clash-of-code-doc/wiki/PoC)
