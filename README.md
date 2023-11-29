@@ -18,3 +18,7 @@ Lo mejor de todo: ¡De manera muy divertida!
 
 ## PPTs
 * [Presentación PoC](https://docs.google.com/presentation/d/1W9KqyzaQV3IhY8WvD9tc7er3oKfapryAXx5teD0i3-w/edit?usp=sharing)
+* [Presentación Final](https://1drv.ms/p/s!Aowqmzgom2EJleZj2dTb9K9aFlNfug?e=HcvGiv)
+
+## Demo
+* [Link](https://www.youtube.com/watch?v=XBNf-Q0_dkg)
